@@ -1,7 +1,7 @@
 ![enterprise](https://github.com/user-attachments/assets/15ab97c7-44ba-4889-8e35-f5a98ce57672)
 
 
-Disclaimer: All examples in this repository are illustrative only with placeholders. Replace placeholders with your own infrastructure, data sources, and credentials before using in your scenarios. 
+**Disclaimer: ** All examples in this repository are illustrative only with placeholders. Replace placeholders with your own infrastructure, data sources, and credentials before using in your scenarios. 
 
 
 Outlook Email Newsletter Sample Preview 
