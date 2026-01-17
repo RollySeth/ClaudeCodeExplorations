@@ -1,9 +1,11 @@
 ![enterprise](https://github.com/user-attachments/assets/15ab97c7-44ba-4889-8e35-f5a98ce57672)
 
 
+**Important:** This repository contains **templates and examples only**.  
+
 **Disclaimer: ** 
 
-All examples in this repository are illustrative only with placeholders. Replace placeholders with your own infrastructure, data sources, and credentials before using in your scenarios. 
+All examples in this repository are illustrative only. Replace placeholders with your own infrastructure, data sources, and credentials before using in your scenarios. 
 
 
 --
