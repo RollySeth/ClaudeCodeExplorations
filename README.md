@@ -7,6 +7,7 @@
 
 All examples in this repository are illustrative only. Replace placeholders with your own infrastructure, data sources, and credentials before using in your scenarios. 
 
+🟢 MIT License
 
 --
 
